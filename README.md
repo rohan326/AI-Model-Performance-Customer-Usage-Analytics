@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 04 — AI Model Performance & Customer Usage Analytics
 
 > Consolidated 20M+ daily AI inference logs via Spark ETL into Snowflake. Enhanced customer satisfaction by 18% through usage trend analysis.
@@ -105,3 +106,7 @@ Three targeted interventions derived from usage trend analysis:
 `Python` · `Pandas` · `NumPy` · `Faker` · `PyArrow` · `Parquet` · `Matplotlib` · `Seaborn`
 
 **Production:** `AWS` · `Apache Spark` · `Snowflake` · `Power BI`
+=======
+# AI-Model-Performance-Customer-Usage-Analytics
+Developed a scalable analytics pipeline to monitor AI model performance and customer usage patterns by consolidating 20M+ daily inference logs. Built a Spark-based ETL workflow to process high-volume log data and load curated datasets into Snowflake for advanced analytics and visualization.
+>>>>>>> da71da276709d8754ceb9860f76223717f5042b2
