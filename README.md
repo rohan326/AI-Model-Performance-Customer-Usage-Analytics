@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # 04 — AI Model Performance & Customer Usage Analytics
 
 > Consolidated 20M+ daily AI inference logs via Spark ETL into Snowflake. Enhanced customer satisfaction by 18% through usage trend analysis.
